@@ -1,0 +1,136 @@
+/* Import Font From Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap");
+
+/* General CSS */
+body {
+  color: #d9d9d9;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  background-color: #677794;
+}
+/* Navbar CSS */
+
+#navbarNavAltMarkup {
+  font-size: 24px;
+  line-height: 5rem;
+}
+/* Container CTA CSS */
+#Current-bc {
+  color: #d9d9d9;
+}
+
+.container-1 {
+  background: #344055;
+  height: 660px;
+}
+#co1 {
+  padding-top: 4.5rem;
+}
+
+.breadcrumb {
+  margin-top: 3rem;
+}
+
+#limit {
+  color: #ffbd29;
+}
+
+.Heading-CTA,
+#limit {
+  font-weight: 700;
+  font-size: 64px;
+}
+
+#CTA {
+  background-color: #ffbd29;
+  color: #344055;
+  font-weight: 700;
+  font-size: 22px;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+#P-CTA {
+  font-size: 24px;
+}
+
+#breadcrumb-CTA {
+  font-size: 22px;
+}
+
+#desc-cta {
+  margin-top: 1rem;
+}
+
+#waves {
+  position: relative;
+  display: inline-block;
+  bottom: 15rem;
+  z-index: 0;
+}
+/* Our Team Section */
+.container-2 {
+  height: 570px;
+  background-color: #677794;
+  margin-top: -18rem;
+  z-index: 8;
+}
+
+#Meet {
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 3rem;
+}
+#yellow-Meet {
+  color: #ffbd29;
+  padding-top: 3rem;
+}
+.pic-intro {
+  margin-top: 2rem;
+  position: relative;
+  left: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.container-3 {
+  background-color: #677794;
+  height: 700px;
+}
+
+#title3 {
+  font-weight: 700;
+  font-size: 48px;
+  text-align: left;
+  margin-top: 8rem;
+}
+.desc-3 {
+  text-align: justify;
+  width: 35rem;
+  font-size: 24px;
+}
+#who {
+  color: #ffbd29;
+}
+#text-3 {
+  position: relative;
+  left: 3rem;
+}
+
+.footer-1 {
+  height: 115px;
+  background-color: #212529;
+  font-size: 18px;
+}
+
+#footer-logo {
+  position: absolute;
+  left: 10rem;
+  margin-top: 2rem;
+}
+
+#create {
+  margin-top: 2.3rem;
+  text-align: center;
+}
